@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+tests/
+
+# Notebooks (not needed in production)
+*.ipynb
+.ipynb_checkpoints/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project docs (not needed in production)
+*.md
+ACTL3143 Project Part 2.pdf
+README.md
+
+# Sisyphus planning (not needed in production)
+.sisyphus/
+
+# Environment
+.env
+.venv/
+venv/

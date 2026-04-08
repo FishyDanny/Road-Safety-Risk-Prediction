@@ -1,0 +1,39 @@
+{
+  "active_plan": "/Users/danny/Documents/code projects/Road-Safety-Risk-Prediction/.sisyphus/plans/deeprisk-implementation.md",
+  "started_at": "2026-04-01T11:46:03.936Z",
+  "session_ids": [
+    "ses_2bd547d14ffe40wDQS25eewirw",
+    "ses_2b7132541ffefFFDqY8gTDjHlt",
+    "ses_2b712a145ffemebqsHI2TYMO7p",
+    "ses_2b712e9f2ffew6C4eZmn1SuRBK",
+    "ses_2b712d892ffetLclnIUrgsdLng",
+    "ses_2b707b5f6ffeYX4T2crMsfkhco",
+    "ses_2b7074868ffeYAh54O9SP8P4u9",
+    "ses_2b708197cffeQjwDKpj9FENNpx",
+    "ses_2b6f19b50ffenYDtt2y6uPIw6S",
+    "ses_2b6f1c869ffeTYwKG1o81PfaOe",
+    "ses_2b6e4e303ffe9ueiBYrhTgqLQQ"
+  ],
+  "plan_name": "deeprisk-implementation",
+  "agent": "atlas",
+  "task_sessions": {
+    "todo:1": {
+      "task_key": "todo:1",
+      "task_label": "1",
+      "task_title": "Create requirements.txt with pinned dependencies",
+      "session_id": "ses_2b7132541ffefFFDqY8gTDjHlt",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-01T12:05:12.200Z"
+    },
+    "todo:5": {
+      "task_key": "todo:5",
+      "task_label": "5",
+      "task_title": "Regenerate model artifacts locally",
+      "session_id": "ses_2b6d15143ffet1MnHAz0xC8P5v",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-01T13:35:49.547Z"
+    }
+  }
+}

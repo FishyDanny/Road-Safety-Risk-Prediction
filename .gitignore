@@ -12,3 +12,9 @@ htmlcov/
 # IDE
 .vscode/
 .idea/
+# Agent scratch
+.sisyphus/
+.artifacts/
+
+# Coursework artefacts
+*.pdf
